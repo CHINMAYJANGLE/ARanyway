@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\AndroidTestProject\\ARSatdium\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\AndroidTestProject\\ARSatdium\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\AndroidTestProject\\ARSatdium\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon.png.flat",
+        "source": "C:\\AndroidTestProject\\ARSatdium\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidTestProject\\ARSatdium\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "C:\\AndroidTestProject\\ARSatdium\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "C:\\AndroidTestProject\\ARSatdium\\build\\intermediates\\res\\merged\\debug\\layout___arcore_education.xml.flat",
+        "source": "C:\\Users\\Chinmay\\.gradle\\caches\\transforms-2\\files-2.1\\27b1de1d6993937b296af1288f77b3b9\\res\\layout\\__arcore_education.xml"
+    },
+    {
+        "merged": "C:\\AndroidTestProject\\ARSatdium\\build\\intermediates\\res\\merged\\debug\\raw_keep_arcore.xml.flat",
+        "source": "C:\\Users\\Chinmay\\.gradle\\caches\\transforms-2\\files-2.1\\27b1de1d6993937b296af1288f77b3b9\\res\\raw\\keep_arcore.xml"
+    },
+    {
+        "merged": "C:\\AndroidTestProject\\ARSatdium\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "C:\\AndroidTestProject\\ARSatdium\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "C:\\AndroidTestProject\\ARSatdium\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\AndroidTestProject\\ARSatdium\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    }
+]

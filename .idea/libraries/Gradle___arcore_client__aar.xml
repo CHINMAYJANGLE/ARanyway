@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :arcore_client:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/27b1de1d6993937b296af1288f77b3b9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/27b1de1d6993937b296af1288f77b3b9/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,4 @@
+#Mon Jun 22 02:29:50 IST 2020
+base.0=C\:\\AndroidTestProject\\ARSatdium\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex
